@@ -1,2 +1,2 @@
-# conversionoperation-js
+# lectures-js
 this is conversion operation
