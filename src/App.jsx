@@ -1,9 +1,13 @@
-
-
+import Mine from "./shazishiza"
 function App() {
 
   return (
-   <h1>You r my everything</h1>
+// react ma ham bas 1 element ko retrun krwa skte hain agar kafi sare elemnts ko return krwana ha to ek simple div ma ya empty ma ham unko le skte hain kiun k ye ha to empty ya div one hi naw
+    <div> 
+   <Mine/> 
+   <h1>who are you</h1>
+   <p>ohh ya am understand</p>
+   </div>
   )
 }
 
